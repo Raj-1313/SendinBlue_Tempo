@@ -23,6 +23,7 @@ dataLS.forEach(function(ele){
        return
     }
     
+    
 })
 if(ans==true){
     window.location.href="http://127.0.0.1:5500/ossified_church_1296/day-2/index.html"
