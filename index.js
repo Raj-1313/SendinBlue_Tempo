@@ -17,6 +17,6 @@ if(topData != null){
 }
 
 else{
-    window.location.href="http://127.0.0.1:5500/ossified_church_1296/day-3/signup.html"
+    // window.location.href="http://127.0.0.1:5500/ossified_church_1296/day-3/signup.html"
     alert("SignUp Please")
 }
